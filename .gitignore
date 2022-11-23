@@ -1,0 +1,10 @@
+gpt-2/__pychache__
+gpt-2/.mypy_cache/
+gpt-2/models/
+gpt-2/checkpoint
+gpt-2/samples
+gpt-2/dist-newstyle
+gpt-2/bin
+.DS_Store
+*/.DS_Store
+*/.env

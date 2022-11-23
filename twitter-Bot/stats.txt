@@ -1,0 +1,7 @@
+136.294 tweets van UberFacts (204.920 naar 136.294) - 1 t/m 272.588
+tweets 483.556 van Fact (677.156 naar 483.556) - 272.588 t/m 1.239.700
+tweets 26.636 van qikipedia (40.145 naar 26.636) - 1.239.700 t/m 1.292.972
+tweets 5.496 van NotCommonFacts (11.256 naar 5.496) - 1.292.972 t/m 1.303.964
+tweets 9.384 van FactPoint (12.269 naar 9.384) - 1.303.964 t/m 1.322.732
+
+TOTAAL: 661.366 tweets, 71,8 MB .txt file.
