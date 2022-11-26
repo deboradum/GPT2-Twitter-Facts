@@ -9,7 +9,7 @@ import tensorflow.compat.v1 as tf
 import model, sample, encoder
 
 def interact_model(
-    model_name='124M',
+    model_name='factsModel',
     seed=None,
     nsamples=1,
     batch_size=1,
@@ -21,7 +21,7 @@ def interact_model(
 ):
     """
     Interactively run the model
-    :model_name=124M : String, which model to use
+    :model_name=factsModel : String, which model to use
     :seed=None : Integer seed for random number generators, fix seed to reproduce
      results
     :nsamples=1 : Number of samples to return total

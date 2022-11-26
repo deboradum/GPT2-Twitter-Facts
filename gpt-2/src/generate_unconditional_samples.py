@@ -9,7 +9,7 @@ import tensorflow.compat.v1 as tf
 import model, sample, encoder
 
 def sample_model(
-    model_name='124M',
+    model_name='factsModel',
     seed=None,
     nsamples=0,
     batch_size=1,
@@ -21,7 +21,7 @@ def sample_model(
 ):
     """
     Run the sample_model
-    :model_name=124M : String, which model to use
+    :model_name=factsModel : String, which model to use
     :seed=None : Integer seed for random number generators, fix seed to
      reproduce results
     :nsamples=0 : Number of samples to return, if 0, continues to
