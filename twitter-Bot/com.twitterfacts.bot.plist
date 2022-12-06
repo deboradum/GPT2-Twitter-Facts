@@ -1,0 +1,12 @@
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.twitterfacts.bot</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/pepijn/Documents/code/Selfmade/GPT2TwitterFacts/twitter-Bot/tweetRandomFact.sh</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>7200</integer>
+</dict>
+</plist>
